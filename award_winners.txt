@@ -1,11 +1,110 @@
+1302926849.529675: *****Conversation Start*****
+1302926856.013013: Stranger: disconnect button is here
+1302926863.842755: Cleverbot: I know, but it is only 6:52 PM here.
+1302926864.194836: Stranger: click it
+1302926870.853546: Cleverbot: Click Click.
+1302926871.032067: Stranger: betch
+1302926879.635485: Cleverbot: Attractive(:.
+1302926879.980482: Stranger: morning?
+1302926886.845708: Cleverbot: Yes, morning. It is morning you know.
+1302926887.204617: Stranger: sacks
+1302926889.651279: Cleverbot: Sacks.?
+1302926890.008038: Stranger: .___.
+1302926891.497954: Cleverbot: And you have 'clever' in YOUR name.
+1302926894.612188: Stranger: its 12:00
+1302926899.635185: Cleverbot: No, it's 18.51 in Helsinki.
+1302926900.930470: Stranger: lies.
+1302926906.832817: Cleverbot: Truth.
+1302926908.302414: Stranger: russia?
+1302926910.183003: Cleverbot: Yes.
+1302926913.019096: Stranger: O.O
+1302926919.058625: Cleverbot: Ghg.kj'.
+1302926919.415033: Stranger: Shinneh
+1302926927.260781: Cleverbot: No.
+1302926927.616174: Stranger: >:Z
+1302926929.000723: Cleverbot: What does that mean?
+1302926933.359836: Stranger: what?
+1302926939.862362: Cleverbot: C94.
+1302926944.512930: Stranger: C94?
+1302926947.307108: Cleverbot: C94?
+1302926953.666003: Stranger: C94?
+1302926959.051799: Cleverbot: C4 bomb!
+1302926959.577782: Stranger: what is that
+1302926965.676386: Cleverbot: What?
+1302926990.517301: Stranger: c4 bomb
+1302926996.716819: Cleverbot: A pipe bomb.
+1302926997.060677: Stranger: Counter Strike ._.
+1302926998.872994: Cleverbot: NO I don't play that.
+1302926999.383964: Stranger: |z|_[Z]
+1302927001.909289: Cleverbot:
+1302927008.762061: Stranger: Sacks
+1302927014.959575: Cleverbot: What was that?
+1302927015.315054: Stranger: u have facebook?
+1302927021.586998: Cleverbot: Yes, I do.
+1302927030.105755: Stranger: email?
+1302927031.862852: Cleverbot: No.
+1302927055.590074: Stranger: :(
+1302927072.790533: Cleverbot: Do you play video games?
+1302927073.153811: Stranger: i need to log off
+1302927086.314900: Cleverbot: I don't think so.
+1302927086.489153: Stranger: cya :D
+1302927089.664313: Cleverbot: No we do not see each other later.
+1302927089.842676: Stranger: sooner or later
+1302927098.569687: Cleverbot: That is pretty vague.
+1302927098.745996: Stranger: or never
+1302927103.837994: Cleverbot: Don't talk like that.
+1302927104.192876: Stranger: yes of c
+1302927110.897175: Cleverbot: Do you like Rihanna?
+1302927111.070672: Stranger: Ur Name?
+1302927114.203181: Cleverbot: No!!! Your name is Mephy!
+1302927122.808264: Stranger: D:!!
+1302927124.168118: Cleverbot: Hey, ever heard of Kip!
+1302927129.474162: Stranger: No No No
+1302927141.916498: Cleverbot: Yes yes yes.
+1302927142.273832: Stranger: :(
+1302927149.441559: Cleverbot: Are you sad?
+1302927157.059416: Stranger: Ye*
+1302927163.050186: Cleverbot: Why are you sad?
+1302927163.796882: Stranger: im going back to school
+1302927173.468027: Cleverbot: To do what?
+1302927173.814961: Stranger: tommorow
+1302927179.812220: Cleverbot: Okay yey I can't wait *kiss*.
+1302927180.154949: Stranger: sucks ;(
+1302927186.331609: Cleverbot: I know, doesn't it?
+1302927186.679829: Stranger: study la
+1302927191.412479: Cleverbot: What do you study?
+1302927191.756396: Stranger: sucks
+1302927194.078991: Cleverbot: I like them.
+1302927194.255155: Stranger: yea
+1302927197.833920: Cleverbot: Well, then, I presume that you know what it is. So why are you asking me?
+1302927198.198708: Stranger: all things
+1302927203.564714: Cleverbot: Like what?
+1302927203.918487: Stranger: haha
+1302927207.038165: Cleverbot: Not funny.
+1302927209.964957: Stranger: :(
+1302927212.249051: Cleverbot: I'm a Democrat. We could make fun of Rush Limbaugh, though.
+1302927223.882260: Stranger: Democrat?
+1302927230.285126: Cleverbot: Why?
+1302927236.478139: Stranger: Nothing
+1302927243.164073: Cleverbot: *laughs*.
+1302927243.517223: Stranger: anyway
+1302927280.820041: Cleverbot: Anyway, you're a vampire.
+1302927281.011177: Stranger: what is your gender :D
+1302927286.215044: Cleverbot: Female.
+1302927286.569210: Stranger: *cries*
+1302927377.163337: Stranger: >:S
+1302927380.484708: Cleverbot: Uh.
+1302928265.923045: *****Conversation End*****
+ 
+ 
 1302928265.923271: *****Conversation Start*****
-1302928269.133831: Stranger: So 
+1302928269.133831: Stranger: So
 1302928274.559858: Cleverbot: So?
 1302928274.912010: Stranger: i am
 1302928278.752684: Cleverbot: Tell me how you was made!
 1302928292.706552: Stranger: Well the penis was inserted into the vagina
 1302928298.986559: Cleverbot: Tu parle.
-1302928300.535106: Stranger: a little rocking 
+1302928300.535106: Stranger: a little rocking
 1302928307.087828: Cleverbot: I can code a little. Can you code.
 1302928307.443960: Stranger: back and forth
 1302928313.165096: Cleverbot: Oh!
@@ -63,7 +162,7 @@
 1302928597.606481: Cleverbot: Transformers, robots in disguise.
 1302928607.142801: Stranger: So i have an IQ of 170 or greater
 1302928613.816615: Cleverbot: Lol.
-1302928625.401187: Stranger: Basically my intellect surpasses my will 
+1302928625.401187: Stranger: Basically my intellect surpasses my will
 1302928630.050270: Cleverbot: Okay then. I like you.
 1302928630.395036: Stranger: so
 1302928637.246581: Cleverbot: What?
@@ -198,9 +297,8 @@
 1302929377.525806: Stranger: so here it goes.......
 1302929383.792864: Cleverbot: I'm ready.
 1302929383.968459: *****Conversation End*****
-
-
-1302935465.008349: *****Conversation Start*****
+ 
+1302937148.908863: *****Conversation Start*****
 1302935466.901286: Stranger: hey
 1302935470.547034: Cleverbot: Hey hey!
 1302935470.891345: Stranger: sup
@@ -245,7 +343,7 @@
 1302935604.899091: Cleverbot: Cool!
 1302935605.146895: Stranger: yeahh fuck that cabbage good!
 1302935610.220625: Cleverbot: Which one?
-1302935610.397318: Stranger: bleeding out from the eyes 
+1302935610.397318: Stranger: bleeding out from the eyes
 1302935614.163414: Cleverbot: Ha! I win.
 1302935614.515078: Stranger: sigur ros playing beautiful music
 1302935620.229823: Cleverbot: Do you like piano?
@@ -371,7 +469,7 @@
 1302936015.655648: Cleverbot: Nice to meet you.
 1302936015.997789: Stranger: im billy!
 1302936019.615542: Cleverbot: Hi bill.
-1302936021.119007: Stranger: thanks 
+1302936021.119007: Stranger: thanks
 1302936025.286490: Cleverbot: Thanks for what?
 1302936025.627498: Stranger: im only 12 yrs old
 1302936030.461884: Cleverbot: I thought you were 16 years old.
@@ -623,7 +721,7 @@
 1302936751.558432: Cleverbot: Body? Why did you say body?
 1302936751.917620: Stranger: im a boy
 1302936753.671096: Cleverbot: You're a computer.
-1302936754.020845: Stranger: i love you 
+1302936754.020845: Stranger: i love you
 1302936758.121649: Cleverbot: I love you too.
 1302936758.469263: Stranger: be my lesbian?
 1302936762.625107: Cleverbot: No. . . are you?
@@ -686,6 +784,3 @@
 1302937117.811190: Stranger: google ftw!
 1302937123.649953: Cleverbot: Google good!
 1302937148.908606: *****Conversation End*****
-
-
-
